@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Intel's Core i9-9900K",
+    "Categories": ["CPU"],
+    "Price": 475.99,
+    "Quantity": 2
+  },
+  {
+    "Name": "Razer BlackWidow Keyboard",
+    "Categories": ["Keyboard ", "Periphery"],
+    "Price": 89.99,
+    "Quantity": 10
+  },
+  {
+    "Name": "Samsung Galaxy S21",
+    "Categories": ["Smartphone", "Electronics"],
+    "Price": 999.99,
+    "Quantity": 5
+  },
+  {
+    "Name": "Logitech G502 HERO Gaming Mouse",
+    "Categories": ["Mouse", "Periphery"],
+    "Price": 79.99,
+    "Quantity": 15
+  },
+  {
+    "Name": "NVIDIA GeForce RTX 3080",
+    "Categories": ["Graphics Card", "Computer Hardware"],
+    "Price": 699.99,
+    "Quantity": 3
+  },
+  {
+    "Name": "Apple iPhone 13 Pro",
+    "Categories": ["Smartphone", "Electronics"],
+    "Price": 1099.99,
+    "Quantity": 8
+  },
+  {
+    "Name": "Dell XPS 13 Laptop",
+    "Categories": ["Laptop", "Computer Hardware"],
+    "Price": 1399.99,
+    "Quantity": 4
+  },
+  {
+    "Name": "Sony WH-1000XM4 Wireless Headphones",
+    "Categories": ["Headphones", "Electronics"],
+    "Price": 349.99,
+    "Quantity": 12
+  },
+  {
+    "Name": "Samsung 4K QLED TV",
+    "Categories": ["Television", "Electronics"],
+    "Price": 1999.99,
+    "Quantity": 6
+  },
+  {
+    "Name": "Corsair Vengeance RGB Pro 32GB RAM",
+    "Categories": ["RAM", "Computer Hardware"],
+    "Price": 199.99,
+    "Quantity": 10
+  }
+]
